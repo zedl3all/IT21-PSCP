@@ -1,2 +1,2 @@
 # IT21-PSCP
-this is some of PSCP subject code
+this is part of PSCP subject code
